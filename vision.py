@@ -3,4 +3,4 @@ import numpy as np
 
 
 
-adas
+print("Vision artificial con OpenCV")
